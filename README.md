@@ -36,14 +36,14 @@ A web application designed to manage food donation and collection activities, co
 
 ## 🖼️ Application Screenshots
 
-### 🔐 Login Page
-![Login Page](assets/screenshots/LoginPage.png)
-
 ### 🏠 Home Page
 ![Home Page](assets/screenshots/HomePage.png)
 
 ### 👤 Register Page
 ![Register Page](assets/screenshots/RegisterPage.png)
+
+### 🔐 Login Page
+![Login Page](assets/screenshots/LoginPage.png)
 
 ### 👤 Donor Module
 ![Donor Module](assets/screenshots/DonorModule.png)
