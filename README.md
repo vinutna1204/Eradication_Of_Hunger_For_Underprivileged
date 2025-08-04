@@ -3,7 +3,7 @@
 
 A web application designed to manage food donation and collection activities, connecting donors, agents, and administrators in a streamlined platform.
 
-[🔗 View Demo](https://food-aid.onrender.com/)
+[🔗 View Demo]( https://eradication-of-hunger-for.onrender.com/)
 
 
 
@@ -110,7 +110,7 @@ A web application designed to manage food donation and collection activities, co
 
 ## 🔗 Useful Links
 
-- 🌐 [Demo](https://food-aid.onrender.com/)
+- 🌐 [Demo]( https://eradication-of-hunger-for.onrender.com/)
 - 📦 [Node.js](https://nodejs.org/)
 - 📝 [VS Code](https://code.visualstudio.com/)
 - 📚 [w3schools](https://www.w3schools.com/)
